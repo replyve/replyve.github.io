@@ -4,7 +4,7 @@ title: Licenses 2
 permalink: /licenses/
 ---
 
-Some information about you!
+Some information about license.
 
 ### More Information
 
