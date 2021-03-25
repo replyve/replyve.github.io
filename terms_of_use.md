@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Terms of Use
+permalink: /terms_of_use/
 ---
 
 Some information about you!
