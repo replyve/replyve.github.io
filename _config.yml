@@ -9,7 +9,7 @@ name: Replyve
 description: Replyve Chat App
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ic_launcher_round.png
+avatar: https://raw.githubusercontent.com/replyve/replyve.github.io/master/ic_launcher_round.png
 
 #
 # Flags below are optional
