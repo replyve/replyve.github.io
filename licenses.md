@@ -1,15 +1,11 @@
 ---
 layout: page
-title: Licenses 2
+title: Additional License Info
 permalink: /licenses/
 ---
 
-Some information about license.
+Additional License Info
 
-### More Information
+### [DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView/blob/a3a22d76c38e28cb03b45629b93e4ac03ce6fcc9/README.md#special-thanks)
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+### [CircleImageView](https://github.com/hdodenhof/CircleImageView/blob/master/LICENSE.txt)
