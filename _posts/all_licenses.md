@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Licenses
-permalink: /licenses/
+permalink: /all_licenses/
 ---
 
 Some information about you!
