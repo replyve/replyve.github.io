@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Licenses
+permalink: /licenses/
 ---
 
 Some information about you!
