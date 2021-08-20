@@ -17,7 +17,7 @@ Unlike Voice/Video call, the messages in Chat Call are conveyed by exchanging in
 ## How Chat Call works?
 1) Starting and receiving a Chat Call process is similar to any voice/video call.\
 2) After your contact accepts the Chat Call, a fresh chat window will be opened on devices of both parties.\
-3) Have a great conversation!\
+3) Have a great conversation!
 
 For more information, please watch the video in below link:\
 [How Chat Call works in Replyve App](https://www.youtube.com/watch?v=SPFYDU5vOFo){:target="_blank"}
