@@ -20,4 +20,4 @@ Unlike Voice/Video call, the messages in Chat Call are conveyed by exchanging in
 3) Have a great conversation!\
 
 For more information, please watch the video in below link:\
-[How Chat Call works in Replyve App](https://www.youtube.com/watch?v=SPFYDU5vOFo).
+[How Chat Call works in Replyve App](https://www.youtube.com/watch?v=SPFYDU5vOFo){:target="_blank"}
