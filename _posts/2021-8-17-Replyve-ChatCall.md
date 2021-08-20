@@ -1,8 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: How Chat Call Works?
 ---
 
-Get it on playstore
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SPFYDU5vOFo" title="YouTube video player" frameborder="0" allow="accelerometer;
+    autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
