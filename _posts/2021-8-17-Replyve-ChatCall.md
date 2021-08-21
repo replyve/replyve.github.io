@@ -4,9 +4,11 @@ title: Understanding Chat Call
 ---
 Its a new form of internet call to communicate in real time that requires all of your attention.\
 Unlike Voice/Video call, the messages in Chat Call are conveyed by exchanging information only via modern feature-rich chat messages.
-<iframe src="https://www.youtube.com/embed/SPFYDU5vOFo" title="YouTube video player" frameborder="0" allow="accelerometer;
-      autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
+<div align="center">
+    <iframe src="https://www.youtube.com/embed/SPFYDU5vOFo" title="YouTube video player" frameborder="0" allow="accelerometer;
+          autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe>
+</div>
 
 * Unlike normal messaging, Chat Call needs your immediate and all of attention during the conversation.
 * You must not do anything else on your device as long as Chat Call is active.
