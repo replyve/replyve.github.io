@@ -17,14 +17,14 @@ avatar: https://raw.githubusercontent.com/replyve/replyve.github.io/master/ic_la
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email:
-  facebook:https://www.facebook.com/Replyve-103509978714584/
+  email: "replyveapp@gmail.com"
+  facebook: Replyve-103509978714584
   flickr:
-  instagram:https://www.instagram.com/replyve_/
-  linkedin:https://www.linkedin.com/company/replyve
+  instagram: replyve_
+  linkedin: replyve
   pinterest:
   twitter:
-  youtube:https://www.youtube.com/channel/UC7qwqbRXgOrpg1CBtPDCBKA
+  youtube:https: channel/UC7qwqbRXgOrpg1CBtPDCBKA
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
