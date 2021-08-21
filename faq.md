@@ -4,12 +4,34 @@ title: FAQ
 permalink: /faq/
 ---
 
-Some information about license.
+## How can I change my password?
+Replyve does not support changing password at this stage. So make sure to remember your password.
 
-### More Information
+## Why the message is showing "Contact not found"?
+The username you are sending message to does not exist on the server.
 
-A place to include any other types of information that you'd like to include about yourself.
+## Why am I not be able to see contact profile information like profile photo, last seen etc.?
+Your contact has not added you to their contacts list in the app.
 
-### Contact me
+## Why the message delivered/read status is not showing in chat window?
+Your contact has not added you to their contacts list in the app.
 
-[email@domain.com](mailto:email@domain.com)
+## Does Replyve store chat messages on the server?
+No, Replyve does not store any messages on our server after it has been delivered to your contacts.
+
+## Does Replyve store Chat Call history and its messages?
+No, Replyve does not store Chat Call history either on server or your device.
+
+## Does Replyve support backup for my chats?
+No, Replyve does not support chat backups. Therefore if Replyve is uninstalled from the device, all messages of your contacts will be lost.
+
+## What kind of data Replyve stores on its servers?
+Your contacts list data, profile picture, and online availability information is stored on server.
+
+## Why am I not be able to receive calls when I am connected to internet?
+You may not be able to receive chat call or messages because your device has applied battery optimizations for Replyve.
+Please allow background activity for Replyve or disable battery optimizations if needed.
+
+## Why there is no sound and vibration When I get an incoming Chat Call notification?
+Please go to Replyve App settings in your device settings. Enable sound and vibration for Replyve notifications.
+If notifications are disabled for Replyve, please allow Replyve to show notifications.
