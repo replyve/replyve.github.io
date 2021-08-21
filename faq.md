@@ -32,7 +32,7 @@ Your contacts list data, profile picture, and online availability information is
 You may not be able to receive chat call or messages because your device has applied battery optimizations for Replyve.\
 Please allow background activity for Replyve or disable battery optimizations if needed.
 
-## Why there is no sound and vibration When I get an incoming Chat Call notification?
+## Why there is no sound and vibration when I get an incoming Chat Call notification?
 Please go to Replyve App settings in your device settings. Enable sound and vibration for Replyve notifications.\
 If notifications are disabled for Replyve, please allow Replyve to show notifications.
 
