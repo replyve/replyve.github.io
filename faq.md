@@ -34,9 +34,9 @@ Please allow background activity for Replyve or disable battery optimizations if
 
 ## Why there is no sound and vibration when I get an incoming Chat Call notification or chat message?
 Make sure you have allowed notification sound for Replyve in your device settings.\
-(settings -> notifications & control center -> app notifications -> Replyve -> Incoming Calls -> enable both Allow playing sound and Allow vibration)\
+(settings -> notifications & control center -> app notifications -> Replyve -> Incoming Calls -> Allow sound and Allow vibration)\
 OR\
-(settings -> Manage Apps -> Replyve -> Incoming Calls -> enable both Allow playing sound and Allow vibration)
+(settings -> Manage Apps -> Replyve -> Incoming Calls -> Allow sound and Allow vibration)
 
 For messages:
 Repeat above process and replace Incoming Calls with messages.
