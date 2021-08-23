@@ -24,6 +24,8 @@ Please allow background activity for Replyve or disable battery optimizations if
 Also if your device is employing intelligent background power consumption management, select allow or don't restrict background power usage.\
 (Settings -> Battery -> Background power consumption management -> Allow/Don't Restrict background power usage)
 
+If "Synced/Out of Sync" notification is disabled, enable it to keep Replyve running in the background.
+
 ## Why Replyve is not running in background on my device?
 Replyve must be synced in the notification tray to receive calls.\
 You may not be able to receive chat call or messages because your device has applied battery optimizations for Replyve.\
@@ -32,6 +34,13 @@ Please allow background activity for Replyve or disable battery optimizations if
 
 Also if your device is employing intelligent background power consumption management, select allow or don't restrict background power usage.\
 (Settings -> Battery -> Background power consumption management -> Allow/Don't Restrict background power usage)
+
+If "Synced/Out of Sync" notification is disabled, enable it to keep Replyve running in the background.
+
+## Why "Synced/Out of Sync" notification needs to always enabled or shown?
+Replyve must be synced in the notification tray to receive calls or messages.
+
+If the notification is disabled or turned off, Replyve might stop running in the background when your are not using the app.
 
 ## How can I change my password?
 Replyve does not support changing password at this stage. So make sure to remember your password.
