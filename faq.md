@@ -10,7 +10,7 @@ Make sure you have allowed notification sound for Replyve in your device notific
 OR\
 (Settings -> Manage Apps -> Replyve -> Notifications -> Incoming Calls -> Allow sound and Allow vibration)
 
-* To know more visit, [Replyve notification sound issue in certain devices](https://replyve.github.io/notification-sound-issues/)
+    * To know more visit, [Replyve notification sound issue in certain devices](https://replyve.github.io/notification-sound-issues/)
 
 * For messages:
 Repeat above process and replace Incoming Calls with messages.
