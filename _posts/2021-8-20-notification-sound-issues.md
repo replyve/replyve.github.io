@@ -11,15 +11,15 @@ Make sure you have allowed notification sound for Replyve in your device notific
 
    * #### Replyve App Info / Settings
    ![replyve_settings]({{ site.baseurl }}/images/notifications/replyve_settings.jpeg)
-   ---------------------------------------
+---------------------------------------
 
    * #### Replyve Notification Channels
    ![replyve_notificatoin_channels]({{ site.baseurl }}/images/notifications/replyve_notificatoin_channels.jpeg)
-   ---------------------------------------
+---------------------------------------
 
    * #### Replyve Incoming Calls Channel
    ![replyve_incoming_calls_channel]({{ site.baseurl }}/images/notifications/replyve_incoming_calls_channel.jpeg)
-   ---------------------------------------
+---------------------------------------
 
 
 * For messages:
