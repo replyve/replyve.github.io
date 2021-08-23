@@ -6,41 +6,41 @@ permalink: /faq/
 
 ## Why there is no sound and vibration when I get notifications for Incoming Chat Call or chat message?
 Make sure you have allowed notification sound for Replyve in your device notification settings.\
-(Settings -> notifications & control center -> app notifications -> Replyve -> Incoming Calls -> Allow sound and Allow vibration)\
+* (Settings -> notifications & control center -> app notifications -> Replyve -> Incoming Calls -> Allow sound and Allow vibration)\
 OR\
 (Settings -> Manage Apps -> Replyve -> Notifications -> Incoming Calls -> Allow sound and Allow vibration)
 
-For messages:
+* For messages:
 Repeat above process and replace Incoming Calls with messages.
 
-If notifications are disabled for Replyve, please allow Replyve to show notifications.
+* If notifications are disabled for Replyve, please allow Replyve to show notifications.
 
 ## Why Replyve is not be able to receive calls/messages when my device is connected to internet?
 Replyve must be synced in the notification tray to receive calls.\
-You may not be able to receive chat call or messages because your device has applied battery optimizations for Replyve.\
-Please allow background activity for Replyve or disable battery optimizations if needed.\
+* You may not be able to receive chat call or messages because your device has applied battery optimizations for Replyve.\
+* Please allow background activity for Replyve or disable battery optimizations if needed.\
 (Settings -> Manage Apps -> Replyve -> Battery -> Allow Background Activity)
 
-Also if your device is employing intelligent background power consumption management, select allow or don't restrict background power usage.\
+* Also if your device is employing intelligent background power consumption management, select allow or don't restrict background power usage.\
 (Settings -> Battery -> Background power consumption management -> Allow/Don't Restrict background power usage)
 
-If "Synced/Out of Sync" notification is disabled, enable it to keep Replyve running in the background.
+* If "Synced/Out of Sync" notification is disabled, enable it to keep Replyve running in the background.
 
 ## Why Replyve is not running in background on my device?
 Replyve must be synced in the notification tray to receive calls.\
-You may not be able to receive chat call or messages because your device has applied battery optimizations for Replyve.\
-Please allow background activity for Replyve or disable battery optimizations if needed.\
+* You may not be able to receive chat call or messages because your device has applied battery optimizations for Replyve.\
+* Please allow background activity for Replyve or disable battery optimizations if needed.\
 (Settings -> Manage Apps -> Replyve -> Battery -> Allow Background Activity)
 
-Also if your device is employing intelligent background power consumption management, select allow or don't restrict background power usage.\
+* Also if your device is employing intelligent background power consumption management, select allow or don't restrict background power usage.\
 (Settings -> Battery -> Background power consumption management -> Allow/Don't Restrict background power usage)
 
-If "Synced/Out of Sync" notification is disabled, enable it to keep Replyve running in the background.
+* If "Synced/Out of Sync" notification is disabled, enable it to keep Replyve running in the background.
 
 ## Why "Synced/Out of Sync" notification needs to always enabled or shown?
 Replyve must be synced in the notification tray to receive calls or messages.
 
-If the notification is disabled or turned off, Replyve might stop running in the background when your are not using the app.
+* If the notification is disabled or turned off, Replyve might stop running in the background when your are not using the app.
 
 ## How can I change my password?
 Replyve does not support changing password at this stage. So make sure to remember your password.
@@ -68,4 +68,4 @@ Your contacts list data, profile picture, and online availability information is
 
 ## Why after starting Chat Call, its stuck at calling or outgoing call is not received by your contact?
 First please confirm, the contact username is correct.\
-If username is correct and outgoing call is not showing "Ringing" status, then your contact is offline.
+* If username is correct and outgoing call is not showing "Ringing" status, then your contact is offline.
