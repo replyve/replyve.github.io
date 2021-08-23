@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Additional License Info
+title: Replyve additional License Info
 permalink: /licenses/
 ---
 

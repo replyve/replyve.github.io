@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Terms of Use
+title: Replyve Terms of Use
 permalink: /terms_of_use/
 ---
 

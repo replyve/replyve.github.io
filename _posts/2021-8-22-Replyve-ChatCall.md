@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding Chat Call
+title: What is Replyve Chat Call?
 ---
 Its a new form of internet call to communicate in real time that requires all of your attention.\
 Unlike Voice/Video call, the messages in Chat Call are conveyed by exchanging information only via modern feature-rich chat messages.

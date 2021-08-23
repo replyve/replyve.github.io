@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy
+title: Replyve Privacy Policy
 permalink: /privacy_policy/
 ---
 
