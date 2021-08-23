@@ -28,9 +28,14 @@ No, Replyve does not support chat backups. Therefore if Replyve is uninstalled f
 ## What kind of data Replyve stores on its servers?
 Your contacts list data, profile picture, and online availability information is stored on server.
 
-## Why am I not be able to receive calls when I am connected to internet?
+## Why Replyve is not be able to receive calls/messages when my device is connected to internet?
+Replyve must be synced in the notification tray to receive calls.
 You may not be able to receive chat call or messages because your device has applied battery optimizations for Replyve.\
-Please allow background activity for Replyve or disable battery optimizations if needed.
+Please allow background activity for Replyve or disable battery optimizations if needed.\
+(Settings -> Manage Apps -> Replyve -> Battery -> Allow Background Activity)
+
+Also if your device is employing intelligent background power consumption management, select allow or don't restrict background power usage.\
+(Settings -> Battery -> Background power consumption management -> Allow/Don't Restrict background power usage)
 
 ## Why there is no sound and vibration when I get notifications for Incoming Chat Call or chat message?
 Make sure you have allowed notification sound for Replyve in your device notification settings.\
