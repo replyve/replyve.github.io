@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Replyve notification sound issue in certain devices
+title: Replyve notification sound or ringtone issue in certain devices
 ---
 Make sure you have allowed notification sound for Replyve in your device notification settings.
 * Due to restrictions by some device manufacturers, there is no way for Replyve to automatically adjust the incoming call notification-channel settings for you.
