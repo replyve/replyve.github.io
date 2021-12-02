@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Replyve : Private Conversation, Anywhere, Anytime
+title: Replyve - Private Conversation, Anywhere, Anytime
 ---
 Replyve is more of a calling app that provides "Call to Chat" to communicate only via real time chat messages and does not require voice to talk over call.
 
