@@ -1,16 +1,15 @@
 ---
 layout: post
-title: What is Replyve Chat Call?
+title: Replyve : Private Conversation, Anywhere, Anytime
 ---
-# Replyve : Private Conversation, Anywhere, Anytime
+Replyve is more of a calling app that provides "Call to Chat" to communicate only via real time chat messages and does not require voice to talk over call.
 
 By [Prince](https://www.linkedin.com/in/prince-kumar-5497p/) Nov 23, 2021
 
-![alt_text]({{ site.baseurl }}/image1.png "image_tooltip")
 
+<img src="https://user-images.githubusercontent.com/81200684/144360461-23eeb34b-6ac7-4da8-9198-96c1d9a5ee7e.png" width="600" height="600" />
 
-
-
+## Highlights
 * [Replyve](https://play.google.com/store/apps/details?id=in.replyve&hl=en_IN&gl=US) is a calling and real-time messaging app, where you call your friends to just chat.
 
 ---
@@ -34,19 +33,14 @@ You can use Replyve to **send and receive calls irrespective of your surrounding
 
 For example, when surrounded by others, like in a metro train, you can call your friends and do not even have to speak over the call to communicate with them.
 
-Unique features in Replyve
+## Unique features in Replyve
 
-
-
-![alt_text]({{ site.baseurl }}/images/image2.png "image_tooltip")
-
-
-
+<img src="https://user-images.githubusercontent.com/81200684/144360563-e98eab0e-2d6a-4888-9ab5-d9f7710c7ca6.png" width="592" height="432" />
 
 * Call to Chat
 * Real-time Typing Messages
 
-Replyve’s signature feature is **Call to Chat **or **Chat Call**.
+Replyve’s signature feature is **Call to Chat** or **Chat Call**.
 
 Unlike Voice/Video Call, the information in a Chat Call is conveyed only via modern feature-rich chat messages. You do not use voice/video to talk over a call.
 
@@ -55,8 +49,8 @@ Unlike Voice/Video Call, the information in a Chat Call is conveyed only via mod
 
 ## How communication works on Replyve?
 
+<img src="https://user-images.githubusercontent.com/81200684/144360587-c5703a2b-2145-45f7-b9dc-fd6aa054aa9d.png" width="601" height="450" />
 
-![alt_text]({{ site.baseurl }}/images/image3.png "image_tooltip")
 
 
 Replyve provides a seamless call experience, but through chat.
@@ -98,8 +92,8 @@ After your friend receives the call, **instead of using a microphone and a camer
 
 Replyve Google Play Store Link -_ <span style="text-decoration:underline;">https://play.google.com/store/apps/details?id=in.replyve&hl=en_IN&gl=US</span>_
 
+<img src="https://user-images.githubusercontent.com/81200684/144360602-3802f095-4c72-41d3-9650-86b1d8e8cb58.jpg" width="251" height="444" />
 
-![alt_text]({{ site.baseurl }}/images/image4.jpg "image_tooltip")
 
 
 Call 🕿, and Just Chat 💬!
