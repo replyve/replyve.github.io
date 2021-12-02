@@ -3,7 +3,8 @@ layout: post
 title: Replyve - Private Conversation, Anywhere, Anytime
 ---
 Replyve is more of a calling app that provides "Call to Chat" to communicate only via real time chat messages and does not require voice to talk over call.
-<img src="https://user-images.githubusercontent.com/81200684/144360461-23eeb34b-6ac7-4da8-9198-96c1d9a5ee7e.png" width="600" height="600" />
+
+![image2](https://user-images.githubusercontent.com/81200684/144363124-c682b96f-0b5d-4ce5-93c6-01dc0004f129.png)
 
 ## Highlights
 * [Replyve](https://play.google.com/store/apps/details?id=in.replyve&hl=en_IN&gl=US) is a calling and real-time messaging app, where you call your friends to just chat.
@@ -31,7 +32,7 @@ For example, when surrounded by others, like in a metro train, you can call your
 
 ## Unique features in Replyve
 
-<img src="https://user-images.githubusercontent.com/81200684/144360563-e98eab0e-2d6a-4888-9ab5-d9f7710c7ca6.png" width="592" height="432" />
+![image1](https://user-images.githubusercontent.com/81200684/144363241-dcf2622d-2db8-4324-8fcf-64c3395201c6.png)
 
 * Call to Chat
 * Real-time Typing Messages
@@ -45,9 +46,7 @@ Unlike Voice/Video Call, the information in a Chat Call is conveyed only via mod
 
 ## How communication works on Replyve?
 
-<img src="https://user-images.githubusercontent.com/81200684/144360587-c5703a2b-2145-45f7-b9dc-fd6aa054aa9d.png" width="601" height="450" />
-
-
+![image4](https://user-images.githubusercontent.com/81200684/144363282-fca7fa63-6418-4c5c-9f33-077f380add5a.png)
 
 Replyve provides a seamless call experience, but through chat.
 
@@ -88,8 +87,7 @@ After your friend receives the call, **instead of using a microphone and a camer
 
 Replyve Google Play Store Link -_ <span style="text-decoration:underline;">https://play.google.com/store/apps/details?id=in.replyve&hl=en_IN&gl=US</span>_
 
-<img src="https://user-images.githubusercontent.com/81200684/144360602-3802f095-4c72-41d3-9650-86b1d8e8cb58.jpg" width="251" height="444" />
-
+![image3](https://user-images.githubusercontent.com/81200684/144363302-f27a56c7-d5c2-4517-a6b3-90ef3d1a3778.jpg)
 
 
 Call 🕿, and Just Chat 💬!
